@@ -6,7 +6,6 @@
 - Hasil dari enkripsi dan dekripsi akan menjadi satu folder dengan file program
 
 # Alur Enkripsi dan Dekripsi
-- Pertama, memilih file gambar yang akan dienkripsi dan dekripsi  
-- Jadikan gambar satu folder dengan program atau beda folder
+- Pertama, memilih file gambar di jadikan satu folder 
 - masukkan gambar berserta format kedalam code python
-- setelah di running, pada folder program akan terdapat hasil enkripsi dan dekripsi gambar yang telah dimasukkan tadi
+- setelah di running, di folder tersebut nanti ada enkripsi dan deskripsi foto tersebut
